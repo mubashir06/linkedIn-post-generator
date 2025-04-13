@@ -1,0 +1,109 @@
+[
+    {
+        "text": "Someone asked me this question recently at an AMA: \nHow does the data governance coming from Congress and even President Trump impact how big tech companies like Google, Meta, and OpenAI are developing their models? \n(Thanks for your question, Eashan Kosaraju.)\n\nHere's the video of my answer: https://lnkd.in/ewQy9-6Z\n\nHere's the written version: \nGenerally, it makes good financial sense for big companies to follow laws and regulations. \nSo when we see sweeping legislation passed, companies will usually comply. \nBut when regulation is designed to be \"one and done\"\u2014as if we can solve it once and never revisit it\u2014that's where I start to worry. \nThat approach can have unintended consequences.\n\nPersonally, I prefer incremental governance, especially when dealing with complex systems whose long-term effects are difficult to predict. \nIf data governance has a one-size-fits-all mindset to \"future-proofing\" then we won't be future-proof. \nSweeping legislation can restrict the best outcomes we might otherwise see from these companies.\n\nI spent nearly a decade at Google, and I genuinely believe that making the world\u2019s information universally accessible and useful is a powerful mission. \nBut if we overregulate, we risk losing a lot of the good that comes from that work.\n\nAt the same time, information can clearly be misused. \nI agree with Congressman Jay Obernolte's take that \"it\u2019s already illegal for someone to steal your money\u2014we don\u2019t need a new law making it illegal to use AI to do it.\" \nThe issue often isn\u2019t about inventing new laws, but enforcing the ones we already have, particularly when it comes to data privacy violations and leaks.\n\nThese huge companies have a huge responsibility. \nThey must be careful stewards of data, not just because governments say so, but because their long-term success depends on it. \nIn fact, I\u2019d argue that the internal incentives for handling data responsibly are often stronger than what external regulation can enforce.\n\nBack when I was at Google, friends and family used to speculate about the company doing all kinds of sketchy things with data. \nAnd I\u2019d think, \u201cIf that were true\u2014my job as a data scientist would\u2019ve been so much easier.\u201d \nThe truth is, there's already a strong culture of caution around data in many of these organizations.\n\nSo yes, governments play an important role. \nBut I\u2019d urge caution for any government that wants to pass a single set of sweeping policies, call it done, and then expect those policies to hold up forever. \nThat\u2019s not how complex systems work.\n\nhttps://lnkd.in/ewQy9-6Z",
+        "engagement": 0,
+        "Line_count": 31,
+        "Language": "English",
+        "tags": [
+            "Artificial Intelligence",
+            "Data Governance"
+        ]
+    },
+    {
+        "text": "Vibe coding, a term coined by Andrej Karpathy in February 2025, describes an increasingly popular approach to writing software: \nExpress the code you want in a few sentences to an AI system like ChatGPT or Claude, then polish and (hopefully!) test the generated result.\n\nTwo things you should know:\n1) Vibe coding isn't new, but the name is.\n2) Vibe coding doesn't eliminate work\u2014it just shifts it from writing to explaining and reviewing... which isn't always a win.\n\nWith vibe coding, you're playing archeologist in someone else's mistakes. \nFor better or worse.\n\nIn my newsletter, I walk you through an example and present the case for vibe coding and the case against it, analyzed from the POVs of the novice and the expert. \nRead my full explanation here: https://lnkd.in/e4_RS4fD\n\n#AI\n#vibecoding\n#technology\n#GenAI\n#software\n#programming\n#coding\n\nIf you found this useful, a repost and follow makes my heart happy.",
+        "engagement": 0,
+        "Line_count": 11,
+        "Language": "English",
+        "tags": [
+            "Vibe Coding",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Agree or disagree with this wall I'm standing in front of?\n\n\"If you think technology will solve your problems then you don't understand technology - AND you don't understand your problems.\"\n\nArt by Laurie Anderson (Four Talks installation at the Hirshorn Museum of Art in Washington DC, 2020)\n\nAnother quote: \"Books are the way the dead talk to the living.\"\n\nA follow/repost to encourages more posts like this, an ignore to discourage them. \nYour move.",
+        "engagement": 0,
+        "Line_count": 6,
+        "Language": "English",
+        "tags": [
+            "Technology",
+            "Art"
+        ]
+    },
+    {
+        "text": "Announcing my new #agentic #AI course for #business #leaders! \nYou'll learn about everything from Agentic Safety to MCP (Model Context Protocol), with a focus on the WHY for your organization.\n\nWith instructors who literally wrote the book on Agentic AI, you'll be learning from the very best.\n\nJoin me (Cassie Kozyrkov), Pascal BORNET, and Brian Evergreen on May 12-16 for the first cohort, where you'll get to interact with us live. \n(The recordings will also be fully available on demand.)\n\nEnroll here: https://lnkd.in/g5X_F4K2\n\nDrop us a comment with a topic you would love to see us cover. \nAnd, as always, reposting this to your network is a gift to those who are searching for clarity in the chaos.",
+        "engagement": 0,
+        "Line_count": 9,
+        "Language": "English",
+        "tags": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Image generation quality has jumped a lot this week following OpenAI's update. \nHere are some things I made with just a single prompt each, no refinement or remixes. \nEnjoy!\n\nIf you've been testing out its functionality, pop your most amusing images in the comments.\n\n#genai #ai #openai #imagegen\n\nIf you enjoyed these, a repost makes my heart happy.",
+        "engagement": 0,
+        "Line_count": 6,
+        "Language": "English",
+        "tags": [
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\u265f\ufe0f\u265f\ufe0f \u265f\ufe0f The bughouse chess matchups have been announced! \u265f\ufe0f \u265f\ufe0f \u265f\ufe0f\nGarry Kasparov vs Cassie Kozyrkov\nLauren Lyons vs Steve Wozniak\n\nPrepare to be crushed, Garry!\n\nBughouse is a paired game, so which team are you going to bet on and why?\n\u265f\ufe0fWozniak+Kozyrkov\u265f\ufe0f or \u265f\ufe0fKasparov+Lyons\u265f\ufe0f\n\nChoose wisely!\n\nJust kidding, that's the headlining speakers list for #MobileWorldCongress in Barcelona! \nThese posters are on every streetlamp on so many streets all over the city, which is something I'll never get used to. \nI'll be on the mainstage Wednesday with 24,000 people signed up for the event. Woohoo!\n\nBut, while we're making chess noises, please enjoy this ultra-throwback puppy face photo of me at a bughouse game taken more than half my life ago, back when I was a college senior. \nPlus another chess photo from DLD Conference 2024. \n100% guarantee Garry would crush me, though.\n\nCome say hi after my fireside chat on Wednesday hosted by Pipo Serrano, since I'll be milling about as usual outside the auditorium in case folks want to stop by. \nOr come say hi in the comments! \nOr... why not both?\n\nChess credits:\nIn the college photo, I'm playing against Alex Lo, the friend who taught me bughouse in the first place and is therefore responsible for any problems I later may cause with it.*\nIn the DLD24 photo, I'm playing against Tunde Onakoya, the grandmaster who holds the Guinness World Records for the longest marathon chess game.\n\n#MWC25 #keynote #AI\n\n* We may also be inclined to blame Sean Mason, Arda Kutlu, and/or Eric Wheeler, who can be seen about to cause trouble on adjacent boards.",
+        "engagement": 0,
+        "Line_count": 24,
+        "Language": "English",
+        "tags": [
+            "Mobile World Congress"
+        ]
+    },
+    {
+        "text": "AI only sees the past, not the future.\nAI only sees the pattern, not the purpose.\nAI only sees the data trail, not the human story.\nAI only sees compliance, not commitment.\nAI only sees keyword matches, not understanding.\nAI only sees what you wrote, not what you thought.\nAI only sees message response times, not friendship.\nAI only sees your calendar events, not what they mean to you.\nAI only sees what was implemented, not what was considered.\nAI only sees the final decision, not bolts of inspiration.\nAI only sees what worked before, not what will work next.\nAI only sees what you did, not why you did it.\nAI only sees your digital shadow, not the real you.\n\nIf you liked this, please give me a follow to encourage me to make more like it. \nOr, if you already follow me, tell a friend. \u2728",
+        "engagement": 0,
+        "Line_count": 12,
+        "Language": "English",
+        "tags": [
+            "Digital Shadow",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "\ud83c\uddea\ud83c\uddfa Dear Europe, now that you've made it \ud83e\udd2fillegal\ud83e\udd2f this week to give your workforce AI tools without training employees in #AI #literacy... \nWho's going to do that for you?\n\nWhen it comes to AI, not so many folks can both talk and understand what they're talking about. \ud83e\uddb8\u200d\u2640\ufe0f\n\nI trained over 20,000 Googlers to help Google go AI-First and I'm here if you need me.\n\nReach out: https://makecassietalk.com",
+        "engagement": 0,
+        "Line_count": 5,
+        "Language": "English",
+        "tags": [
+            "Literacy",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "The U.S. Copyright Office has spoken!\n\nYour Creative Edits = \u2705 Copyrightable\nYour Creative Edits + AI Output = \u2705 Copyrightable\nUnedited AI Output = \u274c Not Copyrightable\nYour Prompts + Unedited AI Output = \u274c Not Copyrightable\n\nHere's the actual text from their published PDF: https://lnkd.in/ev2bv2Hv\n\n\ud83e\udd16 The use of AI tools to assist rather than stand in for human creativity does not affect the availability of copyright protection for the output.\n\ud83e\udd16 Copyright protects the original expression in a work created by a human author, even if the work also includes AI-generated material.\n\ud83e\udd16 Copyright does not extend to purely AI-generated material, or material where there is insufficient human control over the expressive elements.\n\ud83e\udd16 Whether human contributions to AI-generated outputs are sufficient to constitute authorship must be analyzed on a case-by-case basis.\n\ud83e\udd16 Based on the functioning of current generally available technology, prompts do not alone provide sufficient control.",
+        "engagement": 0,
+        "Line_count": 9,
+        "Language": "English",
+        "tags": [
+            "Copyright",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "The LinkedIn autoplay feature is a funny one. \nIf you let this video play without clicking on it, the views don't get counted. \ud83d\ude3f \nSo if you found this take on GenAI useful, please give it a little clickity click through to YouTube. \nThank you, thank you!",
+        "engagement": 0,
+        "Line_count": 4,
+        "Language": "English",
+        "tags": [
+            "Autoplay",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "text": "Hang on a moment! \ud83d\udc40 \nWhen we use the \"temporary chat\" setting in ChatGPT, OpenAI promises not to use our prompts to train its #genai models directly... but what about indirectly? \nMight they still be harvesting insights via their #datascience teams?\n\nIf you're a #legal professional with expertise in data use policies, pretty please weigh in! \n(For the rest, please tag/fwd to your favorite knower of tech law.)\n\nBecause that would be one hell of a powerful dataset, especially if people don't realize there's a difference! \nWhat would you do with the dataset of all the prompts people made when they thought no one was watching? \ud83d\udc40",
+        "engagement": 0,
+        "Line_count": 8,
+        "Language": "English",
+        "tags": [
+            "Data Science",
+            "Artificial Intelligence"
+        ]
+    }
+]
