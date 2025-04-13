@@ -2,34 +2,33 @@
 ---
 
 ```markdown
+````
 # 🚀 LinkedIn Post Generator (AI-powered)
-
 
 ![App Screenshot](https://i.imgur.com/ZVKWwIA.png)
 
 This is a Streamlit-based web application that generates high-quality, influencer-style LinkedIn posts using AI. Inspired by the writing styles of leading thought leaders like **Cassie Kozyrkov**, **Fabio Moioli**, and **Helen Yu**, this app helps you craft posts by selecting influencer style, post topic, language, and length.
 
 ---
-
+```
 ## ✨ Features
 
-- 🔥 **Few-shot post generation** trained on curated influencer posts
-- 🧠 Choose from 3 influencer styles to shape the tone and message
-- ✍️ Customize by topic, language (English or Roman Urdu), and post length
-- 🎯 AI-powered content filtering and style mimicry
-- 🌱 Built with LangChain + Groq LLM + Streamlit
+- 🔥 **Few-shot post generation** trained on curated influencer posts  
+- 🧠 Choose from 3 influencer styles to shape the tone and message  
+- ✍️ Customize by topic, language (English or Roman Urdu), and post length  
+- 🎯 AI-powered content filtering and style mimicry  
+- 🌱 Built with LangChain + Groq LLM + Streamlit  
 
 ---
 
 ## 🖼 App Preview
 
-> 📌 _Add a screenshot of your app interface here._  
-> You can capture a screenshot and upload to GitHub, then replace the placeholder image link above.
+> 📌 _Add a screenshot of your app interface above._  
+> You can upload it to GitHub and update the image link above to point to your file.
 
 ---
-
+```
 ## 🛠 Project Structure
-
 ```
 ├── main.py              # Streamlit app entry point
 ├── few_shot.py          # Tag extraction and filtering logic
@@ -39,10 +38,10 @@ This is a Streamlit-based web application that generates high-quality, influence
 ├── data/
 │   ├── cassie_kazyrkov.json
 │   ├── fabio_moioli.json
-│   ├── helen_yujson
+│   ├── helen_yu.json
 │   └── processed_posts.json
-```
 
+```
 ---
 
 ## ▶️ How to Run Locally
@@ -98,13 +97,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 💡 Future Ideas
 
-- Add GPT-4 / Claude support
-- User-authenticated post history
-- One-click post to LinkedIn API
-- Style blending or custom influencer uploads
+- Add GPT-4 / Claude support  
+- User-authenticated post history  
+- One-click post to LinkedIn API  
+- Style blending or custom influencer uploads  
 
 ---
-
 ```
-
-
