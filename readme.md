@@ -49,7 +49,7 @@ This is a Streamlit-based web application that generates high-quality, influence
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/linkedin-post-generator.git
+git clone https://github.com/mubashir06/linkedin-post-generator.git
 cd linkedin-post-generator
 ```
 
